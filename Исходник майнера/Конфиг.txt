@@ -1,0 +1,1 @@
+-a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45700 -u hovard.biron@bk.ru -p x -t 1
